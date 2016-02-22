@@ -1,5 +1,5 @@
 # Hamster-Slider-Puzzle
-This is a support page of the Android and iOS app "Hamster Slider Puzzle "
+This is a support page of the Android and iOS app "Hamster Slider Puzzle"
 
 # Information
 ver1.0.0 now available.
@@ -19,3 +19,10 @@ Broccoli is the favorite food.
 - iOS7 later
 - iPhone, iPod touch and iPad
 - Android 2.3.3 later
+
+## Google Play
+<a href="https://play.google.com/store/apps/details?id=dev.travitu.hamsterpuzzle&hl=ja" target="_blank">Hamster Slider Puzzle</a>
+
+
+## App Store
+Comming soon.
