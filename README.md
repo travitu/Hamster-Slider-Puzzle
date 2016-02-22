@@ -1,5 +1,5 @@
 # Hamster-Slider-Puzzle
-This is a support page of the iOS app "Hamster Slider Puzzle "
+This is a support page of the Android and iOS app "Hamster Slider Puzzle "
 
 # Information
 ver1.0.0 now available.
