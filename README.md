@@ -2,7 +2,7 @@
 This is a support page of the iOS app "Hamster Slider Puzzle "
 
 # Information
-ver1.0.0 Comming soon.
+ver1.0.0 now available.
 
 ## Overview
 
@@ -18,3 +18,4 @@ Broccoli is the favorite food.
 ## Requirement
 - iOS7 later
 - iPhone, iPod touch and iPad
+- Android 2.3.3 later
