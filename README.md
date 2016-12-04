@@ -1,3 +1,5 @@
+![icon-256](https://cloud.githubusercontent.com/assets/6576679/20866717/bf012b14-ba76-11e6-89dc-56d84463199e.png)
+
 # Hamster-Slider-Puzzle
 This is a support page of the Android and iOS app "Hamster Slider Puzzle"
 
