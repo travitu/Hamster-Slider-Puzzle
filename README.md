@@ -28,3 +28,6 @@ Broccoli is the favorite food.
 
 ## App Store
 <a href="https://itunes.apple.com/us/app/hamster-slider-puzzle/id1084229162?l=ja&ls=1&mt=8" target="_blank">Hamster Slider Puzzle</a>
+
+## Recommend apps and support
+http://travitu-app.hatenablog.com/
